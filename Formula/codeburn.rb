@@ -1,8 +1,8 @@
 class Codeburn < Formula
   desc "See where your AI coding tokens go - by task, tool, model, and project"
   homepage "https://github.com/soumyadebroy3/codeburn"
-  url "https://github.com/soumyadebroy3/codeburn/archive/refs/tags/v2.2.1.tar.gz"
-  sha256 "fc04e060a1fe4a4fe58f108bff24e83e363610d77c8b5d8bcf43ad0e98eb23b8"
+  url "https://github.com/soumyadebroy3/codeburn/archive/refs/tags/v2.2.2.tar.gz"
+  sha256 "8b08f3c58e7e32ea5bea6fcc2e538c9c703b3e5c66241d1a3a5ed2142dc394a8"
   license "MIT"
   head "https://github.com/soumyadebroy3/codeburn.git", branch: "main"
 
